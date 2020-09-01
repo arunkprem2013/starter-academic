@@ -14,7 +14,7 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of British Columbia, Vancouver
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
