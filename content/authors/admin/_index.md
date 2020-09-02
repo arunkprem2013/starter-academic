@@ -15,7 +15,9 @@ superuser: true
 # Organizations/Affiliations
 organizations:
 - name: University of British Columbia, Vancouver
-  url: ""
+  url: "https://www.ubc.ca/"
+- name: Biomedical Signal and Image Computing Laboratory
+  url: "https://bisicl.ece.ubc.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -29,10 +31,10 @@ interests:
 education:
   courses:
   - course: MASc in Biomedical Engineering
-    institution: University of British Columbia, Vancouver
+    institution: University of British Columbia, Vancouver, Canada
     year: 2021
   - course: BEng in Biomedical Engineering
-    institution: SSN College of Engineering, Anna University, Chennai
+    institution: SSN College of Engineering, Chennai, India
     year: 2019
 
 # Social/Academic Networking
