@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Medical Image Computing
-- biomedical Image Analysis
-- Deep Learning
+- Biomedical Image Analysis
+- Deep Learning with Medical Imaging
+- Uncertainty estimation
 - Computer Vision
 
 education:
