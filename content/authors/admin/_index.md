@@ -10,13 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-# role: Master student
+role: Master student at BiSICL
 
 # Organizations/Affiliations
 organizations:
 - name: University of British Columbia, Vancouver
   url: "https://www.ubc.ca/"
-- name: Biomedical Signal and Image Computing Laboratory
+- name: Biomedical Signal and Image Computing Laboratory (BiSICL)
   url: "https://bisicl.ece.ubc.ca/"
 
 # Short bio (displayed in user profile at end of posts)
